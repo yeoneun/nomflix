@@ -32,7 +32,7 @@
       "react-app/jest"
     ]
   },
-  "homepage": "https://yeoneun.github.io/nomflix/",
+  "homepage": "https://vigilant-bose-98f9f0.netlify.app",
   "browserslist": {
     "production": [
       ">0.2%",
